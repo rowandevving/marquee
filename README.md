@@ -1,3 +1,5 @@
+![Marquee Logo](https://i.ibb.co/CBZRMDC/marquee-Logo.png)
+
 This is a Work-in-progress tech demo for my upcoming project, Marquee.
 
 Marquee is a platform that allows teachers or other educators to quickly and easily create interactive flashcard experiences, and pair them with fun quizzes.
