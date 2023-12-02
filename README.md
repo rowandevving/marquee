@@ -1,63 +1,8 @@
-# Nuxt 3 Minimal Starter
+This is a Work-in-progress tech demo for my upcoming project, Marquee.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Marquee is a platform that allows teachers or other educators to quickly and easily create interactive flashcard experiences, and pair them with fun quizzes.
 
-## Setup
+This tech demo aims to be a representation of what the flashcard pack creation interface will look like, and is no way a functional app.
+If you have any ideas or suggestions for this part of the app, please submit a pull request with your changes.
 
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Stay tuned for further updates and tech demos!
